@@ -1,1 +1,1 @@
-# java--rest-with-springboot
+# java-rest-with-springboot
